@@ -1,0 +1,2 @@
+# play-sstore
+replica psn
